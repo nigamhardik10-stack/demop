@@ -8,3 +8,7 @@ today i do not have much knowledge to write.
 Regards HARDIK NIGAM.
 hy today is 7 april 2026 [11:00]
 i feel good now.
+a=10
+b=30
+print(a+b)
+
