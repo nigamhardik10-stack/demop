@@ -15,4 +15,5 @@ print(a+b)
 good morning
 good afternoon
 good evening.
+today is 8 april 2026.
 
