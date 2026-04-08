@@ -12,8 +12,6 @@ a=10
 b=30
 print(a+b)
 // is used for comments.
-good morning
-good afternoon
-good evening.
 today is 8 april 2026.
+today my first commit isnt recognised.
 
