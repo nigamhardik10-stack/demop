@@ -17,5 +17,4 @@ today my first commit isnt recognised.
 finally in two commits,one commit is recognised.
 thank you.
 hy after a long time i opened github
-
-
+this one will be my second commit of the day.
