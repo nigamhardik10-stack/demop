@@ -7,3 +7,4 @@ ok google
 ok meta
 good morning pinapple
 2nd repo
+microsoft
