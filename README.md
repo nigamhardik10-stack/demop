@@ -9,3 +9,4 @@ good morning pinapple
 2nd repo
 microsoft
 apple
+nvidia
