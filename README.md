@@ -11,4 +11,5 @@ microsoft
 apple
 nvidia
 meta
+dell
 
