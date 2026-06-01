@@ -12,4 +12,5 @@ apple
 nvidia
 meta
 dell
+asus
 
