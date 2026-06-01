@@ -10,3 +10,5 @@ good morning pinapple
 microsoft
 apple
 nvidia
+meta
+
