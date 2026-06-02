@@ -14,4 +14,5 @@ meta
 dell
 asus
 1 june 2026
+we are going to ask for money.
 
