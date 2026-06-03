@@ -3,3 +3,4 @@ operators in python:
 bitwise
 arithmetic
 logical
+we are here
