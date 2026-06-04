@@ -10,3 +10,4 @@ we are here
 ok google
 micro but not 
 1st commit of the day 
+c,c++,rst,kotlin,swift,java,python etc
