@@ -1,8 +1,7 @@
 print("hello github")
 printf
 china
-
-modi x meloni
+donald
 
 
 republic of congo
