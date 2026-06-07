@@ -13,3 +13,4 @@ stdio.h
 we
 just me writing
 again same me writing
+editing will be a must skill in future
