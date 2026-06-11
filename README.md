@@ -21,3 +21,4 @@ tuesday 09 06 2026
 2nd attempt of the day
 4th attempt
 market recovers today
+git and github
