@@ -13,14 +13,7 @@ stdio.h
 4th commit of the day
 editing will be a must skill in future
 indian navy wants e900 billion dollar inveswtment
-indian navy is the largest in the world from now onwards
-5th commit of the day
-8th june contribution
-4th contribution of the day
-we are here for the dark.
-tuesday 09 06 2026
-2nd attempt of the day
-4th attempt
+1st commit of the day
 market recovers today
 git and github
 2nd 
