@@ -6,7 +6,7 @@ donald
 siday because of lver 
 market recovers today
 git and github
-2nd 
+2nd commit
 3rd commit
 1st commit
 4th commit
