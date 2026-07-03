@@ -8,10 +8,4 @@ donald
 3rd commit
 4th commit ok
 5th commit
-5th commit for today
-2nd commit 
-3rd commit 
-4th commit for today's graph
-1st commit
-2nd commit of today
-2nd commit of july
+3rd commit of 3 july
